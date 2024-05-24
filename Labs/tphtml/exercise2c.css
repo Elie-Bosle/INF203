@@ -1,0 +1,19 @@
+#id1 {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+#id2 {
+    overflow: hidden;
+}
+
+#id2 img {
+    margin-right: 8px;
+    float: left;
+}
+
+#id3 {
+    background-color: lightslategrey;
+    border: 1px solid grey;
+    margin: 10px;
+}
